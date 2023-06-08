@@ -1,0 +1,32 @@
+
+.navegacion{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: 20px 620px;
+    background-color: azure;
+}
+
+.navegacion ul{
+    list-style: none;
+}
+
+.menu >li{
+    display: inline-block;
+}
+
+.menu>li>a{
+    text-decoration: none;
+    color: black;
+    padding: 30px 40px;
+}
+
+.menu>li>a:hover{
+    color: blue;
+}
+
+.contenedor2{
+    width: 100%;
+margin: 20px;
+ border-radius: 6px;
+}
